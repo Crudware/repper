@@ -1,0 +1,10 @@
+<?php
+require_once('classes/DB.class.php');
+require_once('classes/Excercise.class.php');
+require_once('classes/Routine.class.php');
+require_once('classes/RoutineSet.class.php');
+require_once('classes/Set.class.php');
+require_once('classes/Workout.class.php');
+require_once('classes/WorkoutSet.class.php');
+require_once('classes/Unit.class.php');
+?>
